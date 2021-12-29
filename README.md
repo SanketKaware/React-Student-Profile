@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This React application lets you fetch data from public JSON API and present info on screen, add text input to search student name by first and last name, expandable view for each student to view all test scores, and create tag for each student
+
 ## Available Scripts
 
 In the project directory, you can run:
